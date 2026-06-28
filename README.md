@@ -502,22 +502,6 @@ The notebook (`multiple_regression_analysis.ipynb`) is organised into 12 sequent
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**  
-Data Science Student / Marketing Analyst  
-
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile)
-
----
-
 ## 🙏 Acknowledgements
 
 - Dataset sourced for educational use in applied regression analysis
